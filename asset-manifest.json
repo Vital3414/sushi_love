@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sushi_love/static/css/main.7acaea2f.css",
+    "main.js": "/sushi_love/static/js/main.07d3183d.js",
+    "index.html": "/sushi_love/index.html",
+    "main.7acaea2f.css.map": "/sushi_love/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/sushi_love/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
